@@ -1,0 +1,24 @@
+{
+  "name": "lab3-f.csa313",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B232270023/LAB3-F.CSA313.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/B232270023/LAB3-F.CSA313/issues"
+  },
+  "homepage": "https://github.com/B232270023/LAB3-F.CSA313#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
